@@ -1,0 +1,40 @@
+li{
+    display:inline;
+    padding:10px;
+    margin:10px;
+}
+img{
+    width:230px;
+    height: 230px;
+    border-radius:100%;
+    float:right;
+    object-fit:cover;
+    top: 20%;
+    position:absolute;
+    right: 40%;
+    border: 2px solid black;
+}
+button{
+    border-radius: 5px;
+
+}
+.first-half{
+    color:blueviolet;
+
+}
+.pic{
+    width: 40px;
+    height: 35px;
+    border: 2px solid blueviolet;
+    padding:120px;
+    border-radius:100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+}
+nav{
+    display:flex;
+}
